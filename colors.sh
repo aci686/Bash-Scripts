@@ -2,6 +2,12 @@
 
 # Color definitions to use in shell scripts
 # Use with echo -e
+# Use with printf
+
+__author__="Aaron Castro"
+__author_email__="aaron.castro.sanchez@outlook.com"
+__copyright__="Aaron Castro"
+__license__="MIT"
 
 green="\e[0;32m\033[1m"
 red="\e[0;31m\033[1m"
