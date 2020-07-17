@@ -1,4 +1,13 @@
-#!/bin/sh
+#!/bin/bash
+
+#
+#
+
+__author__="Aaron Castro"
+__author_email__="aaron.castro.sanchez@outlook.com"
+__copyright__="Aaron Castro"
+__license__="MIT"
+
 exitcode=1
 # do check if usb hdd is mounted
 echo "CHECKING IF USB HDD IS AVAILABLE..."
