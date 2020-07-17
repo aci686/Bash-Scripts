@@ -1,5 +1,13 @@
 #/bin/bash
 
+#
+#
+
+__author__="Aaron Castro"
+__author_email__="aaron.castro.sanchez@outlook.com"
+__copyright__="Aaron Castro"
+__license__="MIT"
+
 usage() {
 	echo "usage: $0 [[[-e ] [-d]] | [-h]]"
 }
