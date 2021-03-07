@@ -1,7 +1,6 @@
 #!/bin/bash
 
 #
-#
 
 __author__="Aaron Castro"
 __author_email__="aaron.castro.sanchez@outlook.com"
