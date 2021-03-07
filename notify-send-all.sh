@@ -6,7 +6,6 @@
 # notify-send --urgency=[low|normal|critical] --expire-time 1 --icon=[icon_file] "Subject" "Message"
 # Refer to notify-send man page for additional details
 # [icon_file] should be some located at /usr/share/icons/gnome/32x32/ and its subfolders#
-#
 
 __author__="Aaron Castro"
 __author_email__="aaron.castro.sanchez@outlook.com"
